@@ -1,6 +1,10 @@
 # scrape-weather
 
 install virtualenv
+cd into the directory
+`virtualenv env`
+
+`pip3 install -r requirements.txt`
 
 `source env/bin/activate`
 
